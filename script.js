@@ -1,4 +1,4 @@
-import API_KEY from "./apikey";
+import API_KEY from "./apikey.js";
 const cityInput = document.querySelector(".city-input");
 const searchButton = document.querySelector(".search-btn");
 const locationButton = document.querySelector(".location-btn");
